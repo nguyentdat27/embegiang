@@ -3405,7 +3405,7 @@ a {
 .cd-schedule__name,
 .cd-schedule-modal__name {
   font-size: 1.44em;
-  font-size: var(--text-lg);
+  font-size: var(--text-md);
 }
 @media (min-width: 64rem) {
   .cd-schedule__name,
@@ -3743,7 +3743,7 @@ a {
   padding-bottom: 2rem;
 }
 
-.cd-schedule-title h1 {
+.cd-schedule-title h4 {
   color: rgb(27, 66, 86);
   font-weight: 700;
 }
